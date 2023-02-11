@@ -1,12 +1,11 @@
+
 # Parsers
 ## A little bit of parsers
-
-
 
 ## Installation and start
 
 ```bash
-    https://github.com/Urodec777/Python-scripts.git
+git clone https://github.com/Urodec777/Python-scripts.git
 ```
 Next step is creating venv
 ```bash
@@ -17,3 +16,5 @@ Install requirements `pip install beautifulsoup4` `pip install requests` `pip in
 Run scripts with `python *filename*`
 
 Enjoy :blush:
+
+
