@@ -17,4 +17,16 @@ Run scripts with `python *filename*`
 
 Enjoy :blush:
 
+# Encryptor and Decrypter of files and directories
+## Installation and start
+
+Ctrl + C & Ctrl + V to copy-paste code into your file
+
+Use / not use the venv is up to you
+
+Install requirements `pip install pycryptodome`
+The others you have as base python libs.
+
+Run scripts with `python *filename*`
+ 
 
